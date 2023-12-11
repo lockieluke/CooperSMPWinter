@@ -58,7 +58,7 @@ repositories {
 dependencies {
     compileOnly 'io.papermc.paper:paper-api:1.20.2-R0.1-SNAPSHOT'
     compileOnly 'com.comphenix.protocol:ProtocolLib:5.1.0'
-    compileOnly "dev.jorel:commandapi-bukkit-core:9.1.0"
+    compileOnly "dev.jorel:commandapi-bukkit-core:9.3.0"
     implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.1"
     implementation 'de.themoep:inventorygui:1.6.1-SNAPSHOT'
     implementation 'io.papermc:paperlib:1.0.8'
