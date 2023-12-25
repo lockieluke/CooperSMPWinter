@@ -5,7 +5,7 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '8.1.1'
     id 'java'
     id 'org.jetbrains.kotlin.jvm' version '1.9.20-RC'
-    id 'org.jetbrains.kotlin.plugin.serialization' version '1.9.20'
+    id 'org.jetbrains.kotlin.plugin.serialization' version '1.9.22'
 }
 
 group = "me.lockie.coopersmpwinter"
